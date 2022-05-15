@@ -1,0 +1,15 @@
+3000 epochs completed in 6.174 hours.
+Optimizer stripped from runs/train/yolov5s_results/weights/last.pt, 14.3MB
+Optimizer stripped from runs/train/yolov5s_results/weights/best.pt, 14.3MB
+
+Validating runs/train/yolov5s_results/weights/best.pt...
+Fusing layers... 
+custom_YOLOv5s summary: 213 layers, 7018216 parameters, 0 gradients
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100% 6/6 [00:02<00:00,  2.05it/s]
+                 all        170        739      0.801      0.696      0.756      0.459
+mask_weared_incorrect        170         17      0.666      0.588      0.641      0.363
+           with_mask        170        539      0.913      0.881      0.917      0.609
+        without_mask        170        183      0.825      0.618      0.709      0.404
+Results saved to runs/train/yolov5s_results
+CPU times: user 3min 10s, sys: 37.5 s, total: 3min 47s
+Wall time: 6h 10min 48s
