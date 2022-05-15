@@ -1,6 +1,6 @@
 # Visão Computacional para detecção do uso de máscara de proteção facial
 
-Este Repositório contem os scripts e conjunto de dados para o treinamento do modelo de detecção do uso de máscas de proteção facial usados no trabalho de conclusão de curso para obtenção do título de especialista em Data Science e Analytics do MBA USP ESALQ.
+Este Repositório contem os scripts e conjunto de dados para o treinamento do modelo de detecção construído no trabalho de conclusão de curso para obtenção do título de especialista em Data Science e Analytics do MBA USP ESALQ.
 
 * Aluno: Wagner Takeshi Obara
 * Orientador: Francisco Lledo dos Santos 
